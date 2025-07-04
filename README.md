@@ -46,4 +46,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it--5M2SEutsCo" width="300" />
+  
 </p>
