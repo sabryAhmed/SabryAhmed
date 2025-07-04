@@ -12,7 +12,6 @@
 
 ---
 
-### 🛠️ Languages and Tools:
 
 <p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -25,7 +24,7 @@
 
 ---
 
-### 📈 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedDev&show_icons=true&theme=radical" />
@@ -34,7 +33,7 @@
 
 ---
 
-### 🖼️ صورة متحركة (GIF) ترحيبية
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
