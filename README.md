@@ -10,7 +10,7 @@
 
 I’m Sabry, a Business Administration graduate turned passionate Front-End Developer.  
 I build responsive and interactive web applications using React, jQuery, and modern UI libraries.  
-I enjoy tackling real-world problems with clean, efficient code.
+I enjoy turning creative designs into smooth user experiences with clean, structured code.
 
 ---
 
@@ -28,17 +28,18 @@ I enjoy tackling real-world problems with clean, efficient code.
 
 ## 🚀 Featured Projects
 
-| Project Name     | Description                                         | Tech Stack                   | Live Demo                                               | GitHub Repo                              |
-|------------------|-----------------------------------------------------|------------------------------|---------------------------------------------------------|------------------------------------------|
-| BravoShop React  | Responsive E-commerce app with cart, SweetAlert, Slick Slider. | React, REST API, SweetAlert, Slick Slider | [Live Demo](https://sabryahmed.github.io/BravoShop-react/) | [GitHub Repo](https://github.com/sabryahmed/BravoShop-react) |
-| React School    | Interactive school website with React components.    | React, JavaScript, CSS        | [Live Demo](https://sabryahmed.github.io/react-school/)  | [GitHub Repo](https://github.com/sabryahmed/react-school)  |
+| Project Name       | Description                                                         | Tech Stack                           | Live Demo                                                   | GitHub Repo                                               |
+|--------------------|---------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+| BravoShop React    | Responsive E-commerce app with API cart, SweetAlert, Slick Slider. | React, REST API, SweetAlert, Slick Slider | [Live](https://sabryahmed.github.io/BravoShop-react/)       | [Repo](https://github.com/sabryahmed/BravoShop-react)     |
+| React School       | Interactive school website with multi-section layout.              | React, JavaScript, CSS               | [Live](https://sabryahmed.github.io/react-school/)          | [Repo](https://github.com/sabryahmed/react-school)        |
+| Template Profile   | Clean portfolio template with smooth transitions and sections.     | HTML, CSS, JavaScript                | [Live](https://sabryahmed.github.io/templet-profile/)       | [Repo](https://github.com/sabryahmed/templet-profile)     |
 
 ---
 
 ## 📫 Contact Me
 
-- Email: sabryahmedss81@gmail.com  
-- GitHub: [github.com/sabryahmed](https://github.com/sabryahmed)  
+- 📧 Email: sabryahmedss81@gmail.com  
+- 💻 GitHub: [github.com/sabryahmed](https://github.com/sabryahmed)  
 
 ---
 
@@ -51,4 +52,4 @@ I enjoy tackling real-world problems with clean, efficient code.
 
 ---
 
-> Ready to take on new challenges and build amazing projects! 🚀
+> I'm confident, focused, and ready to bring value through clean code & great user experiences. Let's work together! 🚀
