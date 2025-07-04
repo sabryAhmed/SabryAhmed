@@ -1,52 +1,61 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sabry;Front-End+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;React+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-</h1>
+# BravoShop React 🛒
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB1M3k5NW1tZjRiYTV0djdkam1meWtyaG5ubGw3eGs1bnVoYjhqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" alt="coding gif"/>
-  
+  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="300" alt="Shopping Gif" />
+</p>
+
+## 🛍️ Project Overview
+
+BravoShop is a **React-based E-commerce Front-End** application that lets users browse products, add them to the cart (only once each), and manage quantities easily — all wrapped in a clean and responsive design.
+
+---
+
+## ⚙️ Features
+
+- Fetches products dynamically from an external API.
+- Adds each product to the cart only once.
+- Shows a **SweetAlert** notification if the product is already in the cart.
+- A dedicated **Shop Page** to control quantity or remove products.
+- Fully responsive design for all devices.
+- Enhanced UI/UX using **Slick Slider** and **SweetAlert**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 Live Demo
 
-- 🔭 I’m currently working on **React Front-End Projects**
-- 🌱 I’m learning **Bootstrap, jQuery, and Git**
-- 👨‍💻 My projects: [GitHub/SabryAhmed](https://github.com/sabryAhmed/SabryAhmed)
-- 💬 Ask me about: **HTML, CSS, JavaScript, jQuery, Bootstrap**
-- 📫 Reach me: **sabryahmedss81@gmail.com**
-- ⚡ Fun fact: I love turning designs into real websites 🎨
+Check out the live project here:  
+[BravoShop Live](https://sabryahmed.github.io/BravoShop-react/)
 
 ---
 
-### 🛠️ Languages & Tools
+## 📫 Contact Me
+
+- 📧 Email: sabryahmedss81@gmail.com  
+- 💻 GitHub: [github.com/sabryahmed](https://github.com/sabryahmed)  
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I’m Sabry — a Business Administration graduate turned passionate Front-End Developer.  
+I love creating responsive, user-friendly web apps using React and modern UI libraries.  
+Constantly learning and building real-world projects to level up my skills.  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://media.giphy.com/media/l3q2XhfQq6n3XqQqQ/giphy.gif" width="300" alt="Coding Gif" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabryAhmed&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabryAhmed&theme=radical" />
-</p>
-
----
-
-
-<p align="center">
- 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpqODZrbmppMnJzbDA3aWxja2F3cHIzMTV0cjkwYWYxdzZuMDJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="600"  />
-  
-</p>
+> Thanks for stopping by my project! Feel free to reach out for questions or collaborations. 🚀
