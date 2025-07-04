@@ -1,6 +1,6 @@
 
+# Hi, it’s me Sabry 👋
 
-  <p align="left"> # Hi, it’s me Sabry 👋 </p>
 <p align="center">
   <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVxbGY5amlrMGl4NjQ3NmV5YTgwNTRkZTg5Z2M2enV5Y3huemZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="300" alt="Coding Laptop Gif" />
 </p>
