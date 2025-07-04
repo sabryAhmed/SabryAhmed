@@ -53,4 +53,3 @@ I enjoy turning creative designs into smooth user experiences with clean, struct
 
 ---
 
-> I'm confident, focused, and ready to bring value through clean code & great user experiences. Let's work together! 🚀
