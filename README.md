@@ -1,7 +1,7 @@
 # Hi, it’s me Sabry 👋
 
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjaGdqdXlicWM5dXV4d3I1a2hhMHRhZXhrZG8wNWo1a2p4Y3B2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwtxXU2SbrTsmA/giphy.gif" width="300" alt="Coding Laptop Gif" />
+<p align="right">
+  <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVxbGY5amlrMGl4NjQ3NmV5YTgwNTRkZTg5Z2M2enV5Y3huemZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="300" alt="Coding Laptop Gif" />
 </p>
 
 ---
