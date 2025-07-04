@@ -45,7 +45,8 @@
 ### ✨ Just Vibes
 
 <p align="center">
+  <img src="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-GAoGLvYLt3c" width="300" />
 
-  <img src="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it--5M2SEutsCo" />
+
   
 </p>
