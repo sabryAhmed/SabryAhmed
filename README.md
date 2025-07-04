@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabry</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **React Front-End Projects**
 - 🌱 I’m currently improving my skills in **Bootstrap, jQuery, and Git**
