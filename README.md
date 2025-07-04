@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sabry</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
-<img align="right" alt="Coding" width="300" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300"src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **React Front-End Projects**
 - 🌱 I’m currently improving my skills in **Bootstrap, jQuery, and Git**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sabry)
+- 👨‍💻 All of my projects are available at <a color="red">SABRy site </a>
 - 💬 Ask me about **HTML, CSS, JavaScript, jQuery, Bootstrap**
 - 📫 How to reach me: **sabry@example.com**
 - ⚡ Fun fact: I love turning designs into functional websites 🎨
