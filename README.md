@@ -1,26 +1,20 @@
+# Hi, it’s me Sabry 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Laptop Coder Gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Coding Laptop Gif" />
 </p>
 
-## 🛍️ Project Overview
+---
 
-BravoShop is a **React-based E-commerce Front-End** application that lets users browse products, add them to the cart (only once each), and manage quantities easily — all wrapped in a clean and responsive design.
+## 👨‍💻 About Me
+
+I’m Sabry, a Business Administration graduate with a strong passion for Front-End Development.  
+I specialize in building responsive, interactive web applications using React, jQuery, and modern UI libraries.  
+I have hands-on experience in creating E-commerce projects with dynamic carts, API integrations, and clean UI/UX.
 
 ---
 
-## ⚙️ Features
-
-- Fetches products dynamically from an external API.
-- Adds each product to the cart only once.
-- Shows a **SweetAlert** notification if the product is already in the cart.
-- A dedicated **Shop Page** to control quantity or remove products.
-- Fully responsive design for all devices.
-- Enhanced UI/UX using **Slick Slider** and **SweetAlert**.
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -30,33 +24,21 @@ BravoShop is a **React-based E-commerce Front-End** application that lets users 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-
 ---
 
-## 🚀 Live Demo
+## 🔥 Projects Highlights
 
-Check out the live project here:  
-[BravoShop Live](https://sabryahmed.github.io/BravoShop-react/)
+- Developed a fully responsive E-commerce front-end app using React.  
+- Implemented dynamic product fetching from APIs and managed cart functionalities.  
+- Used SweetAlert for user-friendly notifications and Slick Slider for smooth carousels.  
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: sabryahmedss81@gmail.com  
-- 💻 GitHub: [github.com/sabryahmed](https://github.com/sabryahmed)  
+- Email: sabryahmedss81@gmail.com  
+- GitHub: [github.com/sabryahmed](https://github.com/sabryahmed)  
 
 ---
 
-## 👨‍💻 About Me
-
-Hi, I’m Sabry — a Business Administration graduate turned passionate Front-End Developer.  
-I love creating responsive, user-friendly web apps using React and modern UI libraries.  
-Constantly learning and building real-world projects to level up my skills.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2XhfQq6n3XqQqQ/giphy.gif" width="300" alt="Coding Gif" />
-</p>
-
----
-
-
+> I'm confident, passionate, and ready to take on challenging projects. Let’s build something amazing together! 🚀
