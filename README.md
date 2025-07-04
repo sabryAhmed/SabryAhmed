@@ -1,7 +1,6 @@
-# BravoShop React 🛒
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="300" alt="Shopping Gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Laptop Coder Gif" />
 </p>
 
 ## 🛍️ Project Overview
@@ -27,8 +26,10 @@ BravoShop is a **React-based E-commerce Front-End** application that lets users 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
+
 
 ---
 
