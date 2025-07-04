@@ -45,8 +45,8 @@
 ### ✨ Just Vibes
 
 <p align="center">
-  <img src="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-GAoGLvYLt3c" width="300" />
-  <img src="https://storyset.com/illustration/islamic-new-year/cuate" width="300" />
+ 
+<img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d" width="400" />
 
 
   
