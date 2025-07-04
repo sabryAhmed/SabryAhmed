@@ -7,14 +7,14 @@
 - 🌱 I’m currently learning **TypeScript & DevOps**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Git, and APIs**
-- 📫 How to reach me: **mohamed@example.com**
+- 📫 How to reach me: **@example.com**
 - ⚡ Fun fact: I love solving coding puzzles 🧩
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
  
