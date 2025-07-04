@@ -2,7 +2,7 @@
 <h1> Hi, it’s me Sabry 👋</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJhdDVnZGZzcnBtd2R5eDJpcmNic3dreWVyenpoMzQwYXRtajc0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLnsHDqCjTXaa0LHHf/giphy.gif"  alt="Coding Laptop Gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJhdDVnZGZzcnBtd2R5eDJpcmNic3dreWVyenpoMzQwYXRtajc0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLnsHDqCjTXaa0LHHf/giphy.gif" width="500"  alt="Coding Laptop Gif" />
 </p>
 
 ---
