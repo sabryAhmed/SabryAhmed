@@ -46,8 +46,6 @@
 
 <p align="center">
  
-<img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d" width="400" />
-
-
+<img src="https://www.pexels.com/photo/modern-workspace-with-latte-and-tech-devices-32828854/" width="400" />
   
 </p>
